@@ -2,81 +2,81 @@
     {
         "title": "Avatar",
         "release_year": 2009,
-        "worldwide_gross": 2788,
+        "revenue": 2788,
         "currency": "million USD",
         "director": "James Cameron",
-        "image_url": "avatar.jpg"
+        "poster": "avatar.jpg"
     },
     {
         "title": "Avengers: Endgame",
         "release_year": 2019,
-        "worldwide_gross": 2798,
+        "revenue": 2798,
         "currency": "million USD",
         "director": "Anthony Russo, Joe Russo",
-        "image_url": "avengers_end.jpg"
+        "poster": "avengers_end.jpg"
     },
     {
         "title": "Titanic",
         "release_year": 1997,
-        "worldwide_gross": 2187,
+        "revenue": 2187,
         "currency": "million USD",
         "director": "James Cameron",
-        "image_url": "titanic.jpg"
+        "poster": "titanic.jpg"
     },
     {
         "title": "Star Wars: The Force Awakens",
         "release_year": 2015,
-        "worldwide_gross": 2068,
+        "revenue": 2068,
         "currency": "million USD",
         "director": "J.J. Abrams",
-        "image_url": "star_wars.jpg"
+        "poster": "star_wars.jpg"
     },
     {
         "title": "Avengers: Infinity War",
         "release_year": 2018,
-        "worldwide_gross": 2048,
+        "revenue": 2048,
         "currency": "million USD",
         "director": "Anthony Russo, Joe Russo",
-        "image_url": "avengers_infin.jpg"
+        "poster": "avengers_infin.jpg"
     },
     {
         "title": "Spider-Man: No Way Home",
         "release_year": 2021,
-        "worldwide_gross": 1855,
+        "revenue": 1855,
         "currency": "million USD",
         "director": "Jon Watts",
-        "image_url": "spiderman.jpg"
+        "poster": "spiderman.jpg"
     },
     {
         "title": "Jurassic World",
         "release_year": 2015,
-        "worldwide_gross": 1671,
+        "revenue": 1671,
         "currency": "million USD",
         "director": "Colin Trevorrow",
-        "image_url": "jurassic.jpg"
+        "poster": "jurassic.jpg"
     },
     {
         "title": "The Lion King",
         "release_year": 2019,
-        "worldwide_gross": 1657,
+        "revenue": 1657,
         "currency": "million USD",
         "director": "Jon Favreau",
-        "image_url": "lion_king.jpg"
+        "poster": "lion_king.jpg"
     },
     {
         "title": "The Avengers",
         "release_year": 2012,
-        "worldwide_gross": 1518,
+        "revenue": 1518,
         "currency": "million USD",
         "director": "Joss Whedon",
-        "image_url": "avengers.jpg"
+        "poster": "avengers.jpg"
     },
     {
         "title": "Furious 7",
         "release_year": 2015,
-        "worldwide_gross": 1516,
+        "revenue": 1516,
         "currency": "million USD",
         "director": "James Wan",
-        "image_url": "furious.jpg"
+        "poster": "furious.jpg"
     }
 ]

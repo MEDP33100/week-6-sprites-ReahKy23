@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Avatar",
+        "release_year": 2009,
+        "worldwide_gross": 2788,
+        "currency": "million USD",
+        "director": "James Cameron",
+        "image_url": "avatar.jpg"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "release_year": 2019,
+        "worldwide_gross": 2798,
+        "currency": "million USD",
+        "director": "Anthony Russo, Joe Russo",
+        "image_url": "avengers_end.jpg"
+    },
+    {
+        "title": "Titanic",
+        "release_year": 1997,
+        "worldwide_gross": 2187,
+        "currency": "million USD",
+        "director": "James Cameron",
+        "image_url": "titanic.jpg"
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "release_year": 2015,
+        "worldwide_gross": 2068,
+        "currency": "million USD",
+        "director": "J.J. Abrams",
+        "image_url": "star_wars.jpg"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "release_year": 2018,
+        "worldwide_gross": 2048,
+        "currency": "million USD",
+        "director": "Anthony Russo, Joe Russo",
+        "image_url": "avengers_infin.jpg"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "release_year": 2021,
+        "worldwide_gross": 1855,
+        "currency": "million USD",
+        "director": "Jon Watts",
+        "image_url": "spiderman.jpg"
+    },
+    {
+        "title": "Jurassic World",
+        "release_year": 2015,
+        "worldwide_gross": 1671,
+        "currency": "million USD",
+        "director": "Colin Trevorrow",
+        "image_url": "jurassic.jpg"
+    },
+    {
+        "title": "The Lion King",
+        "release_year": 2019,
+        "worldwide_gross": 1657,
+        "currency": "million USD",
+        "director": "Jon Favreau",
+        "image_url": "lion_king.jpg"
+    },
+    {
+        "title": "The Avengers",
+        "release_year": 2012,
+        "worldwide_gross": 1518,
+        "currency": "million USD",
+        "director": "Joss Whedon",
+        "image_url": "avengers.jpg"
+    },
+    {
+        "title": "Furious 7",
+        "release_year": 2015,
+        "worldwide_gross": 1516,
+        "currency": "million USD",
+        "director": "James Wan",
+        "image_url": "furious.jpg"
+    }
+]
